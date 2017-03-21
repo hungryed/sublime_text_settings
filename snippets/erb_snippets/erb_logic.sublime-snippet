@@ -1,0 +1,8 @@
+<snippet>
+  <content>
+    <![CDATA[<% ${1:logic} %>]]>
+  </content>
+  <tabTrigger>-</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>(ERB) Ruby Logic</description>
+</snippet>

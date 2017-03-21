@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= ${1:expression} %>]]></content>
+  <tabTrigger>=</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <description>(ERB) Ruby Expression</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+describe "${1:description}" do
+  it "${2:description}" do
+    ${3:description}
+  end
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>describe</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+</snippet>
